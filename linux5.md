@@ -49,7 +49,7 @@ libopencv-apps-dev        libopencv-dev             libopencv-highgui4.2      li
 
 > 实际上可选择的版本更多，这里展示一小部分。
 
-安装后，在编程的过程中就可以直接`#inlcude`对应的头文件了。
+安装后，在编程的过程中就可以直接`#include`对应的头文件了。
 
 使用`apt upgrade`可以升级目前已安装的包，想要知道安装了哪些包使用`apt list`即可。如果不再需要该包，使用`apt purge`即可卸载。
 
