@@ -39,7 +39,7 @@ sudo apt install [program]
 > “‘当 Windows11 一开机就会使用 8G 的内存空间时’没这么多，windows 占多少内存也是看你本来有多少内存的，4G 内存它就只占 2G 了” --mxdh
 > 有一个玩笑就是在面包机里用 Linux 系统。
 > Ubuntu 默认使用 Gnome 桌面环境，对，就是 GNU 的一部分。使用 KDE 桌面环境、基于 Ubuntu 的发行版被成为 Kubuntu，类似的还有 Lubuntu 和 Mint，当然他们除了桌面环境可能会有变化外也会有一些其他的自带工具。
-> Linus 非常讨厌 Debian，因为早期 Debian 十分难以安装。不过对于现在的 Ubuntu 而言，你会有直观的图形安装环境--相信我，它会比安装 Windwos 更简单。想要体会一下 1999 年的 Debian 安装有多难受可以观看视频：<https://www.bilibili.com/video/BV1hf4y1N7BS/?spm_id_from=333.337.search-card.all.click&vd_source=271e405cd9556c7b3c77c6d0da84fb3b>
+> Linus 非常讨厌 Debian，因为早期 Debian 十分难以安装。不过对于现在的 Ubuntu 而言，你会有直观的图形安装环境--相信我，它会比安装 Windows 更简单。想要体会一下 1999 年的 Debian 安装有多难受可以观看视频：<https://www.bilibili.com/video/BV1hf4y1N7BS/?spm_id_from=333.337.search-card.all.click&vd_source=271e405cd9556c7b3c77c6d0da84fb3b>
 > 对了，Ubuntu 这个发行版是基于 Debian 的一个发行版，这些基于 Debian 的发行版 ~~以及基于 Debian 发行版的发行版或者基于 Debian 发行版的发行版的发行版%#￥！#@%\*&~~ 被成为 Debian 系。类似的还有 REHL 系，Arch 系等。前文提到的 apt 则是 Debian 系 Linux 的一个特有的**包管理系统**，之后的篇章会提到。
 > 顺带一提，ROS2 可以运行在 Windows 上，但是为了~~白嫖他人的劳动成果~~使用更多 ROS 社区上已完成的功能包、加快开发进度，我们依然使用 ROS noetic。
 
